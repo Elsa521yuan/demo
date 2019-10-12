@@ -10,7 +10,7 @@
 1.4 [微信小程序开发](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 
 1.6 [Git常用操作：](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
-
+***
 JavaScript教程：http://www.runoob.com/js/js-tutorial.html
 
 vue2.5入门：https://www.imooc.com/learn/980
@@ -21,7 +21,7 @@ Vue.js中文文档：https://cn.vuejs.org/v2/guide/
 
 JSON 教程：http://www.runoob.com/json/json-tutorial.html
 
-
+***
 ### 2.视频资源
 2.1 [vue2.X入门学习视频：](https://pan.baidu.com/s/1iVb7pdhqKl8g7Te3xzz4lA)
 
